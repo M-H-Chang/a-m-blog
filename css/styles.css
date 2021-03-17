@@ -1,0 +1,17 @@
+.intro {
+  font-family: sans-serif;
+  color: salmon;
+  text-align: center;
+}
+
+.sections {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: blue;
+  text-align: left;
+}
+
+h1{
+  text-align: justify;
+  color: green;
+}
+
